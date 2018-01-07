@@ -1,0 +1,15 @@
+.chatarea {
+  background-color: palegreen;
+  overflow-y: scroll;
+  height: 70vh;
+}
+
+.chatusers {
+  background: olive;
+  overflow-y: scroll;
+  height: 70vh;
+}
+
+.username {
+  margin-top: 8px;
+}
