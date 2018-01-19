@@ -1,8 +1,14 @@
 .custom-image {
-  width: 200px;
-  height: 200px;
+   width: 300px;
+  height: 300px; 
 }
 .custom-thumbnail {
-  width: 300px;
-  height: 300px;
+}
+.ratings {
+  padding-right: 10px;
+  padding-left: 10px;
+  color: #d17581;
+}
+.margin-left-sm {
+  margin-left: 10px;
 }
